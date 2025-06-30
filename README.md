@@ -94,7 +94,7 @@ Uma versão de demonstração desta aplicação foi publicada e pode ser acessad
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Rafael Holanda**.
+Desenvolvido por **Rafael Holanda**, com design visual da Escola **Digital College**
 
   - **GitHub:** [@RafaelHFSousa](https://github.com/RafaelHFSousa)
   - **LinkedIn:** [Rafael Holanda F. de Sousa](https://linkedin.com/in/rafael-holanda-f-de-sousa-336a27224)
