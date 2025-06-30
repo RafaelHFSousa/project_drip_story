@@ -85,6 +85,11 @@ $ npm run dev
 # O servidor será iniciado em http://localhost:5173
 ```
 
+## 🌐 Deploy
+
+Uma versão de demonstração desta aplicação foi publicada e pode ser acessada através do link abaixo:
+
+➡️ **[Acessar a Drip Store](projectdripstory.vercel.app)**
 
 
 ## 👨‍💻 Autor
