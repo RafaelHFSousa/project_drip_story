@@ -89,7 +89,7 @@ $ npm run dev
 
 Uma versão de demonstração desta aplicação foi publicada e pode ser acessada através do link abaixo:
 
-➡️ **[Acessar a Drip Store](projectdripstory.vercel.app)**
+➡️ **[Acessar a Drip Store](https://projectdripstory.vercel.app/)**
 
 
 ## 👨‍💻 Autor
